@@ -70,7 +70,7 @@
             if (codigo === "3R0W0FLW0177") {
                 document.getElementById("mensaje").style.display = "none";
                 document.getElementById("imagen").src = "xcccc.png"; // 
-                document.getElementById("imagen").src = "AVION.PNG"; //  Coloca aqu� la ruta de la imagen de entrega
+                
                 document.getElementById("imagen").style.display = "block";
             } else {
                 document.getElementById("mensaje").innerText = "El c�digo ingresado no es v�lido. Por favor, int�ntelo de nuevo.";
