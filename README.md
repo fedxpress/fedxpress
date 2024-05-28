@@ -5,7 +5,7 @@
     <title>FedXpress</title>
     <style>
         body {
-            background-color: #6a0dad;
+            background-color: #FF0000;
             color: white;
             font-family: Arial, sans-serif;
             text-align: center;
